@@ -1,0 +1,11 @@
+requests
+sseclient-py
+kafka-python
+pyspark
+fastapi
+uvicorn
+duckdb
+pandas
+pyarrow
+delta-spark
+python-dotenv
